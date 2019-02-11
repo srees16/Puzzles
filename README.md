@@ -1,4 +1,4 @@
-# Python challenges:
+# Python challenge:
 
 Identify the type of news based on headlines and short descriptions
 https://www.kaggle.com/rmisra/news-category-dataset/home
